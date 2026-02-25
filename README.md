@@ -6,7 +6,7 @@ This is a Dockerized setup for a multi-container application using Docker Compos
 ## Project Repository
 
 Check out the repository on GitHub:
-[https://github.com/incognito-rbq/containerized-multi-container-application-docker-compose](https://github.com/incognito-rbq/containerized-multi-container-application-docker-compose)
+[https://github.com/incognito-rbq/containerized-multi-container-application-docker-compose](https://github.com/incognito-rbq/dockerized-webapp-multi-container)
 
 ## Overview
 
